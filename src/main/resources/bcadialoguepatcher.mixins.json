@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.keyli.bcadialoguepatcher.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LiteralTextMixin",
+    "TextOfMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
