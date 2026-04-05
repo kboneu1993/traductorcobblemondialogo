@@ -1,0 +1,13 @@
+{
+  "Welcome to the Pokemon Center! We will heal you and your Pokemon.": "¡Bienvenido al Centro Pokémon! Curaremos a tus Pokémon.",
+  "Would you like me to heal your Pokémon?": "¿Quieres que cure a tus Pokémon?",
+  "Yes": "Sí",
+  "No": "No",
+  "Cancel": "Cancelar",
+  "Goodbye": "Adiós",
+  "Back": "Atrás",
+  "About Me": "Sobre mí",
+  "Battle": "Combatir",
+  "Start Battle": "Iniciar combate",
+  "Hello, ${player}! I'm ${npc}!": "¡Hola, ${player}! ¡Soy ${npc}!"
+}
